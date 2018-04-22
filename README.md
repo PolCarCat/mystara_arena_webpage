@@ -15,10 +15,20 @@ If you created it, you own it and it’s the copyright law itself that assures t
 
 As the owner you have the following rights:
 
--The right to reproduce the work.
--The right to prepare derivative works.
--The right to distribute copies.
--The right to distribute the work publicly.
+-The right to reproduce the work.  
+-The right to prepare derivative works.  
+-The right to distribute copies.  
+-The right to distribute the work publicly.  
+
+The duration of the Copyright is typically the author's life plus 50 to 100 years.
+Copyrights do not cover:
+-Titles  
+-Names  
+-Phrases or slogans    
+-symbols and designs  
+-ideas  
+-procedures and methods  
+-concepts or discoveries  
 
 ### Trademark
 
