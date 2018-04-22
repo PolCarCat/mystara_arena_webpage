@@ -1,10 +1,6 @@
 ## Licensing
 
-“I am <https://www.linkedin.com/in/nina-l%C3%B3pez-bobet-0330b2162/>(Nina López), student of the
-<https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor’s Degree in
-Video Games by UPC at CITM). This content is generated for the second year’s
-subject Project 2, under supervision of lecturer
-<https://es.linkedin.com/in/ricardpillosu>(Ricard Pillosu).”
+“I am [Nina López](https://www.linkedin.com/in/nina-l%C3%B3pez-bobet-0330b2162/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/cat/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://www.linkedin.com/in/ricardpillosu/).”
 
 ### Markdown
 
