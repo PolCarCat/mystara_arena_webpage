@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Licensing
 
-You can use the [editor on GitHub](https://github.com/ninalb13/licensing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+“I am <https://www.linkedin.com/in/nina-l%C3%B3pez-bobet-0330b2162/>(Nina López), student of the
+<https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor’s Degree in
+Video Games by UPC at CITM). This content is generated for the second year’s
+subject Project 2, under supervision of lecturer
+<https://es.linkedin.com/in/ricardpillosu>(Ricard Pillosu).”
 
 ### Markdown
 
