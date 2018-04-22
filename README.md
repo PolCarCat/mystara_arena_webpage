@@ -14,22 +14,24 @@ Copyright is a law that gives you ownership over the things you create (in your 
 If you created it, you own it and it’s the copyright law itself that assures that ownership.
 
 As the owner you have the following rights:
-
+```
 -The right to reproduce the work.  
 -The right to prepare derivative works.  
 -The right to distribute copies.  
--The right to distribute the work publicly.  
+-The right to distribute the work publicly.
+```
 
-The duration of the Copyright is typically the author's life plus 50 to 100 years.
+The duration of the Copyright is typically the author's life plus 50 to 100 years.   
 Copyrights do not cover:
+```
 -Titles  
 -Names  
 -Phrases or slogans    
--symbols and designs  
--ideas  
--procedures and methods  
--concepts or discoveries  
-
+-Symbols and designs  
+-Ideas  
+-Procedures and methods  
+-Concepts or discoveries  
+```
 ### Trademark
 
 A trademark is any combination of signs, expressions (anything) that identifies a firm or a service.
