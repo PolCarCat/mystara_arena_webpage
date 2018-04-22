@@ -1,35 +1,34 @@
-## Licensing
+# Licensing
 
-“I am [Nina López](https://www.linkedin.com/in/nina-l%C3%B3pez-bobet-0330b2162/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/cat/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://www.linkedin.com/in/ricardpillosu/).”
+I am [Nina López](https://www.linkedin.com/in/nina-l%C3%B3pez-bobet-0330b2162/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/cat/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://www.linkedin.com/in/ricardpillosu/).
 
-### Markdown
+## What is licensing?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A licensing agreement is a written agreement by which the owner of a property gives another party permission to use that property under specified parameters (usually a payment).
 
-```markdown
-Syntax highlighted code block
+## Copyright vs. Trademark
 
-# Header 1
-## Header 2
-### Header 3
+### Copyright
 
-- Bulleted
-- List
+Copyright is a law that gives you ownership over the things you create (in your case a Video Game).
+If you created it, you own it and it’s the copyright law itself that assures that ownership.
 
-1. Numbered
-2. List
+As the owner you have the following rights:
 
-**Bold** and _Italic_ and `Code` text
+-The right to reproduce the work.
+-The right to prepare derivative works.
+-The right to distribute copies.
+-The right to distribute the work publicly.
 
-[Link](url) and ![Image](src)
-```
+### Trademark
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A trademark is any combination of signs, expressions (anything) that identifies a firm or a service.
+It guarantees the item's uniqueness and it gives the owner legal rights to prevent its unauthorized use.
+They have to be registered with the appropriate authority to obtain legal ownership and protection rights. 
+Trademark rights are granted usually for 7 to 20 years and, unlike in case of patents, are renewable indefinitely.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ninalb13/licensing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
