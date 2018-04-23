@@ -138,9 +138,9 @@ Licensed works and modifications can be distributed under different licenses wit
 It is also compatible with a lot of copyleft licenses like the GNU General Public License (GPL).  
 
 <img src="https://github.com/ninalb13/licensing/blob/master/mit.PNG?raw=true"/>
-image from https://choosealicense.com/
+image from choosealicense.com
 
-**MIT LICENSE here**  
+[**MIT LICENSE here**](https://opensource.org/licenses/MIT)
 
 
 **Apache License 2.0**
