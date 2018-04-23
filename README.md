@@ -137,6 +137,9 @@ It only requires the preservation of the copyright and license a copy of the MIT
 Licensed works and modifications can be distributed under different licenses without source code.
 It is also compatible with a lot of copyleft licenses like the GNU General Public License (GPL).  
 
+<img src="https://github.com/ninalb13/licensing/blob/master/mit.PNG?raw=true"/>
+image from choosealicense
+
 ```
 Copyright (c) <year> <copyright holders>
 
