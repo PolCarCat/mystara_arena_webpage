@@ -143,7 +143,8 @@ image from choosealicense.com
 [**MIT LICENSE here**](https://opensource.org/licenses/MIT)
 
 
-**Apache License 2.0**
+**Apache License 2.0**   
+
 It requires the preservation of the copyright and a copy of the Apache License.
 Licensed works and modifications can be distributed under different licenses without source code.
 It works better for organizations that are bigger and managing more contributors but don't care about their work being commercialized by others. It adds a patent license clause to prevent patents from ecumbering the work.   
@@ -154,5 +155,12 @@ image from choosealicense.com
 
 [**APACHE 2.0 LICENSE here**](https://opensource.org/licenses/Apache-2.0)   
 
+### *STRONGLY PROTECTIVE*   
+**GNU General Public License v3.0**  
+It is a widely used free software license, it guarantees the users the freedom the run, study and modify the software.
+It is a copyleft license so the derivative works can only be released according to the GPL.   
+Copyright and license notice have to be preserved and the contributors provide an express grant of patent rights.
 
+<img src=""/>   
 
+[**GPL v.3.0 LICENSE here**](https://opensource.org/licenses/GPL-3.0)   
