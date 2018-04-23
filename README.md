@@ -92,9 +92,6 @@ Freedom 3 – The work can be modified and distributed modified
 ```   
 In order to be 100% Copyleft, the author of the derived work will only distribute it under the same or equivalent license.   
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png"/>
-image from Wikipedia   
-
 ### Permissive source vs. Copyleft  
 The difference between permissive source licenses and copyleft free software licenses is that when the software is redistributed
 (it doesn't matter if it has been modified or not) Copyleft licenses enforce the publication of the source code (under the license Copyleft).   
@@ -103,6 +100,9 @@ Copyleft licenses offer less license compatibility than permissive licenses.
 Permissive licenses offer more extensive licence compatibility than copyleft licenses, which cannot always be freely combined and mixed. 
 
 ### License compatibility  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png"/>
+image from Wikipedia   
+
 License compatibility allows software with different licenses to be distributed together. 
 There are some cases where it is legally impossible to combine two different works (from different licensed software) because their licenses contain contradictory requierements.   
 
