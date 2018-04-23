@@ -8,6 +8,7 @@ A licensing agreement is a written agreement by which the owner of a property gi
 
 ## *Copyright vs. Trademark*
 
+  
 ## *Copyright*
 
 Copyright is a law that gives you ownership over the things you create (in your case a Video Game).
