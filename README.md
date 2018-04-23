@@ -165,3 +165,11 @@ Copyright and license notice have to be preserved and the contributors provide a
 image from choosealicense.com   
 
 [**GPL v.3.0 LICENSE here**](https://opensource.org/licenses/GPL-3.0)   
+
+### *Quick summary: MIT, APACHE, GPL*   
+-The MIT license is a permissive license meaning that the user can to whatever he wants to do without any legal obligation to the owner.
+-The Apache license says more or less the same but it adds a patent license designed to prevent patents from encumbering the software.
+-The GPL license containts share-alike license meaning that when a derivative work is made and distributed, the source has to be provided under the same license.
+
+
+
