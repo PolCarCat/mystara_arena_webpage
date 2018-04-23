@@ -62,7 +62,9 @@ image from tandbadvocates.
 ## *Patents*  
 They protect inventions from being copied. It can be considered as if they protect ideas.   
 Patents include a detailed description defining the legal boundaries of the invention accurately.
-They provide the strongest protection but they are also the hardest to get (and the most expensive ones).   
+They provide the strongest protection but they are also the hardest to get (and the most expensive ones).  
+They last for the shortest amount of time 16-18 years.   
+
 
 
 ## *Free software license*
