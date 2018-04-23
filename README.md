@@ -109,9 +109,7 @@ Most Permissive licenses are compatible with copyleft licenses which are incompa
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png"/>
 image from Wikipedia     
-   
-   
-Some licenses do not allow derived works to add a restriction that says a redistributor cannot add more restrictions. Examples include the CDDL and MsPL. However such restrictions also make the license incompatible with permissive free software licenses.
+
 
 Some licenses are permissive but do not qualify as free software licenses as defined by the Free Software Foundation.
 
