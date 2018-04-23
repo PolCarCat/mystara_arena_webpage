@@ -2,7 +2,7 @@
 
 I am [Nina López](https://www.linkedin.com/in/nina-l%C3%B3pez-bobet-0330b2162/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/cat/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://www.linkedin.com/in/ricardpillosu/).
 
-<img_src = "https://www.copyrighted.com/assets/images/web/home/splash/register-copyright-protect-websites-works.png />
+<img_src = "https://www.copyrighted.com/assets/images/web/home/splash/register-copyright-protect-websites-works.png/>
 ## *What is licensing?*
 
 A licensing agreement is a written agreement by which the owner of a property gives another party permission to use that property under specified parameters (usually a payment).
