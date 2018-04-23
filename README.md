@@ -57,7 +57,14 @@ image from tandbadvocates.
 -™ : This is the unregistered trademark symbol, it is used to promote a brand or its goods.
 -℠ : This is the unregistered service mark symbol, it is used to promote a brand or its services.
 -® : This is the registered trademark symbol.
-```
+```   
+
+## *Patents*  
+They protect inventions from being copied. It can be considered as if they protect ideas.   
+Patents include a detailed description defining the legal boundaries of the invention accurately.
+They provide the strongest protection but they are also the hardest to get (and the most expensive ones).   
+
+
 ## *Free software license*
 A free software license grants the modification and restribution of a software.
 This actions are prohibited by copyrights laws but the owner of the rights of a software can remove these
