@@ -69,7 +69,7 @@ image from Wikipedia
 ### *Permissive Software License*   
 A permissive software license is a free software license with minimal requirements about how the software will be distributed.
 ```
--**[MIT License](#MIT License)**<br>
+-MIT License
 -BSD License   
 -Apple Public Source License   
 -Apache License   
