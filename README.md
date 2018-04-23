@@ -11,7 +11,7 @@ A licensing agreement is a written agreement by which the owner of a property gi
 ## *Copyright*
 
 Copyright is a law that gives you ownership over the things you create (in your case a Video Game).
-If you created it, you own it and it’s the copyright law itself that assures that ownership.
+If you created it, you own it and the copyright law assures it.
 
 As the owner you have the following rights:
 ```
@@ -36,15 +36,15 @@ Copyright does not cover:
 
 A trademark is any combination of signs, expressions (anything) that identifies a firm or a service.
 It guarantees the item's uniqueness and it gives the owner legal rights to prevent its unauthorized use.
-They have to be registered with the appropriate authority to obtain legal ownership and protection rights. 
-Trademark rights are granted usually for 7 to 20 years and, unlike in case of patents, are renewable indefinitely.
+It has to be registered with the appropriate authority to obtain legal ownership and protection rights. 
+Trademark rights are granted usually for 7 to 20 years and unlike patents, they can be renewed indefinetly.
 
 ### *Registered Trademark, Unregistered Trademark or Service mark?*
 
 ```
--™ (the "trademark symbol", which is the letters "TM" in superscript, for an unregistered trademark, a mark used to promote or brand goods)
--℠ (which is the letters "SM" in superscript, for an unregistered service mark, a mark used to promote or brand services)
--® (the letter "R" surrounded by a circle, for a registered trademark)
+-™ : This is the unregistered trademark symbol, it is used to promote a brand or its goods.
+-℠ : This is the unregistered service mark symbol, it is used to promote a brand or its services.
+-® : This is the registered trademark symbol.
 ```
 
 
