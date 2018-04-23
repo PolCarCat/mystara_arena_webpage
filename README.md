@@ -129,7 +129,7 @@ gives the rights to:
 The OSI (Open Source Initiative) and the FSF (Free Software Foundation) are two organizations that approve different
 licenses
 
-## *Which license should you use for your video game?
+## *Which license should you use for your video game?*
 
 ### *PERMISSIVE*
 **The MIT License**  
@@ -144,8 +144,9 @@ image from choosealicense.com
 
 
 **Apache License 2.0**
-It requires the preservation of the copyright and .....
-A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+It requires the preservation of the copyright and a copy of the Apache License.
+Licensed works and modifications can be distributed under different licenses without source code.
+It works better for organizations that are bigger and managing more contributors but don't care about their work being commercialized by others. It adds a patent license clause to prevent patents from ecumbering the work.
 
 [**APACHE 2.0 LICENSE here**](https://opensource.org/licenses/Apache-2.0)   
 
