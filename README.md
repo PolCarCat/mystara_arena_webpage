@@ -146,7 +146,11 @@ image from choosealicense.com
 **Apache License 2.0**
 It requires the preservation of the copyright and a copy of the Apache License.
 Licensed works and modifications can be distributed under different licenses without source code.
-It works better for organizations that are bigger and managing more contributors but don't care about their work being commercialized by others. It adds a patent license clause to prevent patents from ecumbering the work.
+It works better for organizations that are bigger and managing more contributors but don't care about their work being commercialized by others. It adds a patent license clause to prevent patents from ecumbering the work.   
+
+<img src="https://github.com/ninalb13/licensing/blob/master/apache.PNG?raw=true"/>   
+image from choosealicense.com    
+
 
 [**APACHE 2.0 LICENSE here**](https://opensource.org/licenses/Apache-2.0)   
 
