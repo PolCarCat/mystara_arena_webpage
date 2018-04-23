@@ -3,7 +3,8 @@
 I am [Nina López](https://www.linkedin.com/in/nina-l%C3%B3pez-bobet-0330b2162/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/cat/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://www.linkedin.com/in/ricardpillosu/).
 
 <img src="https://www.copyrighted.com/assets/images/web/home/splash/register-copyright-protect-websites-works.png"/>
-from copyrighted (website)
+image from copyrighted (website).  
+
 ## *What is licensing?*
 
 A licensing agreement is a written agreement by which the owner of a property gives another party permission to use that property under specified parameters (usually a payment).
@@ -16,6 +17,8 @@ A licensing agreement is a written agreement by which the owner of a property gi
 Copyright is a law that gives you ownership over the things you create (in your case a Video Game).
 If you created it, you own it and the copyright law assures it.
 
+<img src= "https://billmuehlenberg.com/wp-content/uploads/2017/06/copyright.jpg"/>  
+image from Bill Muehlenberg
 As the owner you have the following rights:
 ```
 -The right to reproduce the work.  
