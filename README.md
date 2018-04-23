@@ -72,7 +72,13 @@ gives the rights to:
 -Change
 -Distribute
 ```
-   
+  
+## *Open-source vs Free-software*   
+
+The OSI (Open Source Initiative) and the FSF (Free Software Foundation) are two organizations that approve different
+licenses
+
+
    
 
 
