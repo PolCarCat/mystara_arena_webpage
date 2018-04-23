@@ -78,8 +78,11 @@ A permissive software license is a free software license with minimal requiremen
 Copyleft is a type of license that consists on the author giving the person who recieves a copy of the software total permission to reproduce, change or distribute copies of the software. 
 That is pretty much the contrary of copyright which is the reason why this is called copyleft (a play in the word copyright).   
 It is a feature of some free software licenses
-The most important license is the GNU General Public License.    
+The most important license is the GNU General Public License and they are also called Viral Licenses.   
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Copyleft.svg/220px-Copyleft.svg.png"/>
+image from Wikipedia   
+
 Copyleft works like this:   
 ```
 Freedom 0 – The work can be used
@@ -91,7 +94,26 @@ In order to be 100% Copyleft, the author of the derived work will only distribut
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png"/>
 image from Wikipedia   
-## *Open-Source software license*   
+
+### Permissive source vs. Copyleft  
+The difference between permissive source licenses and copyleft free software licenses is that when the software is redistributed
+(it doesn't matter if it has been modified or not) Copyleft licenses enforce the publication of the source code (under the license Copyleft).   
+Permissive licenses don't try to guarantee that in the future the software will remain free and available.   
+Copyleft licenses offer less license compatibility than permissive licenses. 
+Permissive licenses offer more extensive licence compatibility than copyleft licenses, which cannot always be freely combined and mixed. 
+
+### License compatibility  
+License compatibility allows software with different licenses to be distributed together. 
+There are some cases where it is legally impossible to combine two different works (from different licensed software) because their licenses contain contradictory requierements.   
+
+Most Permissive licenses are compatible with copyleft licenses which are incompatible with mostly all the other licenses.
+
+
+Some licenses do not allow derived works to add a restriction that says a redistributor cannot add more restrictions. Examples include the CDDL and MsPL. However such restrictions also make the license incompatible with permissive free software licenses.
+
+Some licenses are permissive but do not qualify as free software licenses as defined by the Free Software Foundation.
+
+## *Open-Source*  
 Open-source software is a type of computer software with a license in which the owner (copyright holder)
 gives the rights to:  
 ```
