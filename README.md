@@ -125,7 +125,10 @@ gives the rights to:
 ## *Open-source vs Free-software*   
 
 The OSI (Open Source Initiative) and the FSF (Free Software Foundation) are two organizations that approve different
-licenses
+licenses. They are pretty much the same expect for the fact that free software believes in total freedom meaning that it supports the complete elimination of software property and Intellectual property.   
+
+<img src="https://github.com/ninalb13/licensing/blob/master/open.PNG?raw=true"/>   
+
 
 ## *Which license should you use for your video game?*
 
