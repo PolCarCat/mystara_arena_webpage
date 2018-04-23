@@ -59,8 +59,11 @@ image from qsek intellectual services.
 ## *Free software license*
 A free software license grants the modification and restribution of a software.
 This actions are prohibited by copyrights laws but the owner of the rights of a software can remove these
-restrictions by acquiring a software license that will grant its modification/distribution.   
+restrictions by acquiring a software license that will grant its modification/distribution.     
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png"/>
+image from Wikipedia   
+ 
 ## *Open-Source software license*   
 Open-source software is a type of computer software with a license in which the owner (copyright holder)
 gives the rights to:  
