@@ -147,7 +147,7 @@ image from choosealicense.com
 It requires the preservation of the copyright and .....
 A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-   
+[**APACHE 2.0 LICENSE here**](https://opensource.org/licenses/Apache-2.0)   
 
 
 
