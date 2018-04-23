@@ -18,7 +18,8 @@ Copyright is a law that gives you ownership over the things you create (in your 
 If you created it, you own it and the copyright law assures it.
 
 <img src= "https://billmuehlenberg.com/wp-content/uploads/2017/06/copyright.jpg"/>  
-image from Bill Muehlenberg
+image from Bill Muehlenberg   
+
 As the owner you have the following rights:
 ```
 -The right to reproduce the work.  
@@ -44,6 +45,9 @@ A trademark is any combination of signs, expressions (anything) that identifies 
 It guarantees the item's uniqueness and it gives the owner legal rights to prevent its unauthorized use.
 It has to be registered with the appropriate authority to obtain legal ownership and protection rights. 
 Trademark rights are granted usually for 7 to 20 years and unlike patents, they can be renewed indefinetly.
+
+<img src="http://www.qsekinternational.com/images/trademark.png"/>  
+image from qsek intellectual services.   
 
 ### *Registered Trademark, Unregistered Trademark or Service mark?*
 
