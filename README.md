@@ -47,8 +47,8 @@ It guarantees the item's uniqueness and it gives the owner legal rights to preve
 It has to be registered with the appropriate authority to obtain legal ownership and protection rights. 
 Trademark rights are granted usually for 7 to 20 years and unlike patents, they can be renewed indefinetly.
 
-<img src="http://www.qsekinternational.com/images/trademark.png"/>  
-image from qsek intellectual services.   
+<img src="http://www.tandbadvocates.com/wp-content/uploads/2016/11/trademark-image.png"/>   
+image from tandbadvocates.   
 
 ### *Registered Trademark, Unregistered Trademark or Service mark?*
 
