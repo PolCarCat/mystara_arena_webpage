@@ -63,9 +63,34 @@ A free software license grants the modification and restribution of a software.
 This actions are prohibited by copyrights laws but the owner of the rights of a software can remove these
 restrictions by acquiring a software license that will grant its modification/distribution.     
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Software-license-classification-mark-webbink.svg/400px-Software-license-classification-mark-webbink.svg.png"/>
+image from Wikipedia   
+
+### *Permissive Software License*   
+A permissive software license is a free software license with minimal requirements about how the software will be distributed.
+```
+-MIT License  
+-BSD License   
+-Apple Public Source License   
+-Apache License   
+```
+### *Copyleft*  
+Copyleft is a type of license that consists on the author giving the person who recieves a copy of the software total permission to reproduce, change or distribute copies of the software. 
+That is pretty much the contrary of copyright which is the reason why this is called copyleft (a play in the word copyright).   
+It is a feature of some free software licenses
+The most important license is the GNU General Public License.    
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Copyleft.svg/220px-Copyleft.svg.png"/>
+Copyleft works like this:   
+```
+Freedom 0 – The work can be used
+Freedom 1 – The work can be studied
+Freedom 2 – The work can be shared and copied
+Freedom 3 – The work can be modified and distributed modified
+```   
+In order to be 100% Copyleft, the author of the derived work will only distribute it under the same or equivalent license.   
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png"/>
 image from Wikipedia   
- 
 ## *Open-Source software license*   
 Open-source software is a type of computer software with a license in which the owner (copyright holder)
 gives the rights to:  
