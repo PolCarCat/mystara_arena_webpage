@@ -2,7 +2,8 @@
 
 I am [Nina López](https://www.linkedin.com/in/nina-l%C3%B3pez-bobet-0330b2162/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/cat/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://www.linkedin.com/in/ricardpillosu/).
 
-<img src="https://www.copyrighted.com/assets/images/web/home/splash/register-copyright-protect-websites-works.png"/>
+<img src="https://www.copyrighted.com/assets/images/web/home/splash/register-copyright-protect-websites-works.png"/>   
+
 image from copyrighted (website).  
 
 ## *What is licensing?*
