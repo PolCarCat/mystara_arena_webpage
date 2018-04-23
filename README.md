@@ -74,6 +74,7 @@ A permissive software license is a free software license with minimal requiremen
 -Apple Public Source License   
 -Apache License   
 ```
+
 ### *Copyleft*  
 Copyleft is a type of license that consists on the author giving the person who recieves a copy of the software total permission to reproduce, change or distribute copies of the software. 
 That is pretty much the contrary of copyright which is the reason why this is called copyleft (a play in the word copyright).   
@@ -100,14 +101,14 @@ Copyleft licenses offer less license compatibility than permissive licenses.
 Permissive licenses offer more extensive licence compatibility than copyleft licenses, which cannot always be freely combined and mixed. 
 
 ### License compatibility  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png"/>
-image from Wikipedia   
 
 License compatibility allows software with different licenses to be distributed together. 
 There are some cases where it is legally impossible to combine two different works (from different licensed software) because their licenses contain contradictory requierements.   
 
-Most Permissive licenses are compatible with copyleft licenses which are incompatible with mostly all the other licenses.
+Most Permissive licenses are compatible with copyleft licenses which are incompatible with mostly all the other licenses.  
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png"/>
+image from Wikipedia     
 
 Some licenses do not allow derived works to add a restriction that says a redistributor cannot add more restrictions. Examples include the CDDL and MsPL. However such restrictions also make the license incompatible with permissive free software licenses.
 
@@ -127,6 +128,36 @@ gives the rights to:
 The OSI (Open Source Initiative) and the FSF (Free Software Foundation) are two organizations that approve different
 licenses
 
+## *Which license should you use for your video game?
+
+### *PERMISSIVE*
+*The MIT License*   
+It only requires the preservation of the copyright and license a copy of the MIT License terms.
+Licensed works and modifications can be distributed under different licenses without source code.
+It is also compatible with a lot of copyleft licenses like the GNU General Public License (GPL).  
+
+```
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+   
 
    
 
