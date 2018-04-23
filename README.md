@@ -47,7 +47,7 @@ Trademark rights are granted usually for 7 to 20 years and unlike patents, they 
 -® : This is the registered trademark symbol.
 ```
 ## *Free software license*
-A free software licnse grants the modification and restribution of a software.
+A free software license grants the modification and restribution of a software.
 This actions are prohibited by copyrights laws but the owner of the rights of a software can remove these
 restrictions by acquiring a software license that will grant its modification/distribution.
 
