@@ -21,18 +21,18 @@ body {font-size:16px;}
   </div>
   <div class="w3-bar-block">
     <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
-    <a href="#showcase" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">The Game</a> 
-    <a href="#services" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">License</a> 
-    <a href="#designers" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Team</a> 
-    <a href="#packages" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Characters</a> 
-    <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a>
+    <a href="#The Game" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">The Game</a> 
+    <a href="#License" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">License</a> 
+    <a href="#Team" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Team</a> 
+    <a href="#Characters" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Characters</a> 
+    <a href="#Contact" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a>
   </div>
 </nav>
 
 <!-- Top menu on small screens -->
 <header class="w3-container w3-top w3-hide-large w3-red w3-xlarge w3-padding">
   <a href="javascript:void(0)" class="w3-button w3-red w3-margin-right" onclick="w3_open()">☰</a>
-  <span>Company Name</span>
+  <span>No Readme Studio</span>
 </header>
 
 <!-- Overlay effect when opening sidebar on small screens -->
@@ -52,7 +52,7 @@ body {font-size:16px;}
   <div class="w3-card-4">
   <img src="img_avatar.png" alt="Mystara Arena">
   </div>
-  <h1 class="w3-xxxlarge w3-text-red"><b>Services.</b></h1>
+  <h1 class="w3-xxxlarge w3-text-red"><b>The Game.</b></h1>
     <hr style="width:50px;border:5px solid red" class="w3-round">
     
     <p>Mystara Arena is a college project game that will be developed over the course of the subject, Project II by our team, NOREADME Studios. The objective of this project is to create a fully featured game that can be played completely and that can be learned in around 10 to 20 minutes. We will be taking most of the art & sounds from the arcade game "Dungeons and Dragons: Shadow over Mystara", a beat'em up game released by Capcom in 1996.
@@ -63,7 +63,7 @@ body {font-size:16px;}
 
   <!-- License -->
   <div class="w3-container" id="License" style="margin-top:75px">
-    <h1 class="w3-xxxlarge w3-text-red"><b>Services.</b></h1>
+    <h1 class="w3-xxxlarge w3-text-red"><b>License.</b></h1>
     <hr style="width:50px;border:5px solid red" class="w3-round">
   
     <p>License
