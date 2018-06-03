@@ -88,14 +88,17 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           SOFTWARE.
       </p>
       <p>
-          Mystara Arena is a college project game that will be developed over the course 
+      <div class="w3-card">
+ 	 <p> Mystara Arena is a college project game that will be developed over the course 
 	  of the subject, Project II by our team, NOREADME Studios. 
 	  The objective of this project is to create a fully featured game that can be played
-	  completely and that can be learned in around 10 to 20 minutes. 
-	  We will be taking most of the art & sounds from the arcade game "Dungeons and Dragons: Shadow over Mystara",
-	  a beat'em up game released by Capcom in 1996.
+	  completely and that can be learned in around 10 to 20 minutes.
+	  We will be taking most of the art & sounds from the arcade game "Dungeons and Dragons: 
+	  Shadow over Mystara", a beat'em up game released by Capcom in 1996.
 	  
-	  Are you ready to enter the Arena?
+	  Are you ready to enter the Arena?</p>
+	</div>
+          
       </p>
 	
 
