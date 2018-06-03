@@ -102,18 +102,19 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     	<button class="w3-button w3-red w3-padding-large w3-section">
         <i class="fa fa-eye"></i>
         <li><a href="">Watch a short video of the Game!</a>
-	</button>
+	
 	
     <button class="w3-button w3-aqua w3-padding-large w3-section">
       <i class="fa fa-user"></i> 
       <li><a href="https://github.com/NOREADMEStudios/ProjectII">Link to the repository!</a>
-     </button>
+     
      
     <button class="w3-button w3-yellow w3-padding-large w3-section">
         <i class="fa fa-download"></i>
         <li><a href="https://github.com/NOREADMEStudios/ProjectII">Download our Game!</a>
-    </button>
     
+    
+    </p>
     </p>
     
     <!-- Testimonials -->
