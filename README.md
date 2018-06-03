@@ -112,11 +112,11 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <button class="w3-button w3-yellow w3-padding-large w3-section">
         <i class="fa fa-download"></i>
         <li><a href="https://github.com/NOREADMEStudios/ProjectII">Download our Game!</a>
-    	</p>
+    	
     
     
     
-    
+    <div>
     <!-- Testimonials -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="Meet the team">
     <h3 class="w3-padding-24 w3-text-light-grey ">MEET THE TEAM:</h3>
