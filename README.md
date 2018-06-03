@@ -87,8 +87,8 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
           SOFTWARE.
       </p>
-      <p>
-      <div class="w3-card">
+      
+      <div class="w3-card w3-yellow">
  	 <p> Mystara Arena is a college project game that will be developed over the course 
 	  of the subject, Project II by our team, NOREADME Studios. 
 	  The objective of this project is to create a fully featured game that can be played
@@ -99,7 +99,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 	  Are you ready to enter the Arena?</p>
 	</div>
           
-      </p>
+     
 	
 
 
