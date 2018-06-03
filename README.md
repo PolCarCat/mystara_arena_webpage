@@ -34,10 +34,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <i class="fa fa-eye w3-xxlarge"></i>
     <p>Meet The Team</p>
   </a>
-  <a href="#Characters" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
-    <i class="fa fa-male w3-xxlarge"></i>
-    <p>Characters</p>
-  </a>
     <a href="#Controls" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
         <i class="fa fa-gamepad w3-xxlarge"></i>
         <p>Controls</p>
@@ -46,6 +42,14 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 </nav>
 
+<!-- Navbar on small screens (Hidden on medium and large screens) -->
+<div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
+  <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
+    <a href="#" class="w3-bar-item w3-button" style="width:25% !important">HOME</a>
+    <a href="#Game Description" class="w3-bar-item w3-button" style="width:25% !important">Game Description:</a>
+    <a href="#Meet the team" class="w3-bar-item w3-button" style="width:25% !important">Meet The Team</a>
+  </div>
+</div>
 
 <!-- Page Content -->
 <<<<<<< HEAD
@@ -54,7 +58,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small"> Mystara Arena</span></h1>
     <p>by No Readme Studio.</p>
-    <img src="Game/web/logo.jpg" alt="mystara arena" class="w3-image" width="992" height="1108">
+    <img src="Game/web/logo.jpg" alt="annedroid" class="w3-image" width="992" height="1108">
   </header>
 
   <!-- About Section -->
@@ -87,21 +91,84 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
           SOFTWARE.
       </p>
-      
-      <div class="w3-card w3-yellow">
- 	 <p> Mystara Arena is a college project game that will be developed over the course 
-	  of the subject, Project II by our team, NOREADME Studios. 
-	  The objective of this project is to create a fully featured game that can be played
-	  completely and that can be learned in around 10 to 20 minutes.
-	  We will be taking most of the art & sounds from the arcade game "Dungeons and Dragons: 
-	  Shadow over Mystara", a beat'em up game released by Capcom in 1996.
-	  
-	  Are you ready to enter the Arena?</p>
-	</div>
-          
-     
-	
+      <p>
+          Anne Droid is a platformer game where the player has to reach two doors to survive.
+          For the second assignment enemies use pathfinding(A*) to get to the player.
+          For the third assignment there is UI implemented with score, timer, lifes and gears.
+      </p>
 
+<p>
+    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+        <i class="fa fa-eye"></i>
+        <li><a href="https://www.youtube.com/watch?v=xE6F1uA7dxs">Watch a short video of the Game!</a>
+
+
+    </button>
+    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+      <i class="fa fa-user"></i> 
+      <li><a href="https://github.com/polferrando98/Anne-Droid">Link to the repository!</a>
+      
+
+    </button>
+    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+        <i class="fa fa-download"></i>
+        <li><a href="https://github.com/polferrando98/Anne-Droid/releases/download/v3.0/AnneDroid.zip">Download our Game!</a>
+
+
+    </button>
+    
+    </p>
+    <!-- Testimonials -->
+  <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="Meet the team">
+    <h3 class="w3-padding-24 w3-text-light-grey ">MEET THE TEAM:</h3>
+<div style="margin-bottom:100px">
+    <img src="Game/web/pol.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Pol Ferrando.</span>. github: polferrando98</p>
+   </div>
+<div>
+    <img src="Game/web/nina.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Nina Lopez.</span>. github: ninalb13</p>
+   </div>
+  </div>
+  <!-- End About Section -->
+  </div>
+  
+<!-- Grid for pricing tables -->
+<div class="w3-content w3-justify w3-text-grey w3-padding-64"
+    <h3 class="w3-padding-16 w3-text-light-grey"id="Controls">How to Play:</h3>
+    <div class="w3-row-padding" style="margin:0 -16px">
+      <div class="w3-margin-bottom">
+        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+          <li class="w3-dark-grey w3-xlarge w3-padding-32">CONTROLS (KEYBOARD):</li>
+          <li class="w3-padding-16">Move: A/D</li>
+          <li class="w3-padding-16">Jump: W</li>
+	<li class="w3-padding-16">2Jump:WW</li>
+          <li class="w3-padding-16">F1: Start from the first level</li>
+	  <li class="w3-padding-16">F2: Start from the current level</li>
+	  <li class="w3-padding-16">F5: Save</li>
+	  <li class="w3-padding-16">F6: Load</li>
+	  <li class="w3-padding-16">F8: Debug UI</li>
+	  <li class="w3-padding-16">F9: Debug Colliders</li>
+	<li class="w3-padding-16">F10: God Mode</li>
+	<li class="w3-padding-16">F11: Enable/Disable FPSCAP to 30</li>
+          <li class="w3-padding-16">
+        
+          </li>
+        </ul>
+      </div>
+  </div>
+    <h3 class="w3-padding-16 w3-text-light-grey" id="Controls">Cheats:</h3>
+    <div class="w3-row-padding" style="margin:0 -16px">
+        <div class=" w3-margin-bottom">
+            <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+                <li class="w3-dark-grey w3-xlarge w3-padding-32">Cheats(KEYBOARD):</li>
+                <li class="w3-padding-16">1: LEVEL 1</li>
+                <li class="w3-padding-16">2: LEVEL 2</li>
+                <li class="w3-padding-16">3: LEVEL 3</li>
+                <li class="w3-padding-16">0: MENU</li>
+            </ul>
+        </div>
+    </div>
 </div>
 
     <!-- Footer -->
@@ -112,9 +179,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 <!-- END PAGE CONTENT -->
 </div>
-
-</body>
-</html>
 
 </body>
 </html>
