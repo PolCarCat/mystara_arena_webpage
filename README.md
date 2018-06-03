@@ -110,4 +110,21 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
         <i class="fa fa-download"></i>
         <li><a href="https://github.com/polferrando98/Anne-Droid/releases/download/v3.0/AnneDroid.zip">Download our Game!</a>
 
-	
+
+<div class="w3-content w3-justify w3-text-grey w3-padding-64" id="Meet the Team">
+    <h2 class="w3-text-light-grey">Meet the Team:</h2>
+    <hr style="width:200px" class="w3-opacity">	
+    
+    <div class="w3-dropdown-hover">Nina Lopez
+  <div class="w3-dropdown-content w3-card-4" style="width:250px">
+    <img src="img_london.jpg" alt="Nina" style="width:100%">
+    <div class="w3-container">
+      <p>I'm Nina and I'm the artist of the game.</p>
+      <p>I'm the one in charge of the art & part of the UI</p>
+    </div>
+  </div>
+</div>
+    
+    
+    
+</div>
