@@ -109,5 +109,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
         <i class="fa fa-download"></i>
         <li><a href="https://github.com/polferrando98/Anne-Droid/releases/download/v3.0/AnneDroid.zip">Download our Game!</a>
 
+	</p>
 
 	</html>
