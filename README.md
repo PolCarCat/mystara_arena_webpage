@@ -10,9 +10,9 @@
 body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 .w3-row-padding img {margin-bottom: 12px}
 /* Set the width of the sidebar to 120px */
-.w3-sidebar {width: 120px;background: #222;}
+.w3-sidebar {width: 140px;background: #222;}
 /* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
-#main {margin-left: 120px}
+#main {margin-left: 140px}
 /* Remove margins from "page content" on small screens */
 @media only screen and (max-width: 600px) {#main {margin-left: 0}}
 </style>
@@ -90,11 +90,12 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
           SOFTWARE.
       </p>
-      <p>
-          Anne Droid is a platformer game where the player has to reach two doors to survive.
-          For the second assignment enemies use pathfinding(A*) to get to the player.
-          For the third assignment there is UI implemented with score, timer, lifes and gears.
-      </p>
+      
+          <div class="w3-card">
+  	 	<p>Mystara Arena is a college project game that will be developed over the course of the subject, Project II by our team, NOREADME Studios. The objective of this project is to create a fully featured game that can be played completely and that can be learned in around 10 to 20 minutes. We will be taking most of the art & sounds from the arcade game "Dungeons and Dragons: Shadow over Mystara", a beat'em up game released by Capcom in 1996.
+		Are you ready to enter the arena?</p>
+	</div>
+      
 
 	<p>
     <button class="w3-button w3-red w3-padding-large w3-section">
