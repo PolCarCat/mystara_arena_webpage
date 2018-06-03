@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Anne Droid</title>
+<title>Mystara Arena</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -34,6 +34,10 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <i class="fa fa-eye w3-xxlarge"></i>
     <p>Meet The Team</p>
   </a>
+  <a href="#Characters" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-male"></i>
+    <p>Characters</p>
+  </a>
     <a href="#Controls" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
         <i class="fa fa-gamepad w3-xxlarge"></i>
         <p>Controls</p>
@@ -42,23 +46,15 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 </nav>
 
-<!-- Navbar on small screens (Hidden on medium and large screens) -->
-<div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
-  <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
-    <a href="#" class="w3-bar-item w3-button" style="width:25% !important">HOME</a>
-    <a href="#Game Description" class="w3-bar-item w3-button" style="width:25% !important">Game Description:</a>
-    <a href="#Meet the team" class="w3-bar-item w3-button" style="width:25% !important">Meet The Team</a>
-  </div>
-</div>
 
 <!-- Page Content -->
 <<<<<<< HEAD
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-    <h1 class="w3-jumbo"><span class="w3-hide-small"> Anne Droid</span></h1>
-    <p>by Nina Lopez and Pol Ferrando.</p>
-    <img src="Game/web/logo.jpg" alt="annedroid" class="w3-image" width="992" height="1108">
+    <h1 class="w3-jumbo"><span class="w3-hide-small"> Mystara Arena</span></h1>
+    <p>by No Readme Studio.</p>
+    <img src="Game/web/logo.jpg" alt="mystara arena" class="w3-image" width="992" height="1108">
   </header>
 
   <!-- About Section -->
@@ -68,7 +64,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       <p>MIT License</p>
 
       <p>
-          Copyright (c) [2017] [Pol Ferrando and Nina Lopez]
+          Copyright (c) [2018] [No Readme Studio]
       </p>
       <p>
           Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -92,27 +88,32 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           SOFTWARE.
       </p>
       <p>
-          Anne Droid is a platformer game where the player has to reach two doors to survive.
-          For the second assignment enemies use pathfinding(A*) to get to the player.
-          For the third assignment there is UI implemented with score, timer, lifes and gears.
+          Mystara Arena is a college project game that will be developed over the course 
+	  of the subject, Project II by our team, NOREADME Studios. 
+	  The objective of this project is to create a fully featured game that can be played
+	  completely and that can be learned in around 10 to 20 minutes. 
+	  We will be taking most of the art & sounds from the arcade game "Dungeons and Dragons: Shadow over Mystara",
+	  a beat'em up game released by Capcom in 1996.
+	  
+	  Are you ready to enter the Arena?
       </p>
 
 <p>
-    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+    <button class="w3-button w3-red w3-padding-large w3-section">
         <i class="fa fa-eye"></i>
-        <li><a href="https://www.youtube.com/watch?v=xE6F1uA7dxs">Watch a short video of the Game!</a>
+        <li><a href="">Watch a short video of the Game!</a>
 
 
     </button>
-    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+    <button class="w3-button w3-aqua w3-padding-large w3-section">
       <i class="fa fa-user"></i> 
-      <li><a href="https://github.com/polferrando98/Anne-Droid">Link to the repository!</a>
+      <li><a href="https://github.com/NOREADMEStudios/ProjectII">Link to the repository!</a>
       
 
     </button>
-    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+    <button class="w3-button w3-yellow w3-padding-large w3-section">
         <i class="fa fa-download"></i>
-        <li><a href="https://github.com/polferrando98/Anne-Droid/releases/download/v3.0/AnneDroid.zip">Download our Game!</a>
+        <li><a href="https://github.com/NOREADMEStudios/ProjectII">Download our Game!</a>
 
 
     </button>
@@ -122,12 +123,36 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="Meet the team">
     <h3 class="w3-padding-24 w3-text-light-grey ">MEET THE TEAM:</h3>
 <div style="margin-bottom:100px">
-    <img src="Game/web/pol.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
-    <p><span class="w3-large w3-margin-right">Pol Ferrando.</span>. github: polferrando98</p>
+    <img src="" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Pol Carrera.</span>. github: PolCarCat</p>
    </div>
 <div>
-    <img src="Game/web/nina.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <img src="" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-margin-right">Nina Lopez.</span>. github: ninalb13</p>
+   </div>
+   <div>
+    <img src="" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Carles Margeli.</span>. github: Margeli</p>
+   </div>
+   <div>
+    <img src="" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Marc Moreno.</span>. github: marc094</p>
+   </div>
+   <div>
+    <img src="" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Norman Benet.</span>. github: Normanbg</p>
+   </div>
+   <div>
+    <img src="" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Albert Mas.</span>. github: albertmas</p>
+   </div>
+   <div>
+    <img src="" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Joel Cabaco.</span>. github: dynamiczero99</p>
+   </div>
+   <div>
+    <img src="" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Roger Sanchez.</span>. github: RogerJimbo</p>
    </div>
   </div>
   <!-- End About Section -->
