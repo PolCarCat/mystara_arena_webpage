@@ -102,6 +102,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
      
 	
 
+</div>
 
     <!-- Footer -->
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
@@ -111,6 +112,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 <!-- END PAGE CONTENT -->
 </div>
+
+</body>
+</html>
 
 </body>
 </html>
