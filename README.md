@@ -52,7 +52,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 </div>
 
 <!-- Page Content -->
-<<<<<<< HEAD
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
@@ -115,16 +114,4 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
         <li><a href="https://github.com/polferrando98/Anne-Droid/releases/download/v3.0/AnneDroid.zip">Download our Game!</a>
 
 
-
-
-    <!-- Footer -->
-  <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
-    
-  <!-- End footer -->
-  </footer>
-
-<!-- END PAGE CONTENT -->
-</div>
-
-</body>
-</html>
+	</html>
