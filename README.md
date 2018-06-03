@@ -97,7 +97,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           For the third assignment there is UI implemented with score, timer, lifes and gears.
       </p>
 
-<p>
+	<p>
     <button class="w3-button w3-light-grey w3-padding-large w3-section">
         <i class="fa fa-eye"></i>
         <li><a href="https://www.youtube.com/watch?v=xE6F1uA7dxs">Watch a short video of the Game!</a>
@@ -115,61 +115,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
         <li><a href="https://github.com/polferrando98/Anne-Droid/releases/download/v3.0/AnneDroid.zip">Download our Game!</a>
 
 
-    </button>
-    
-    </p>
-    <!-- Testimonials -->
-  <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="Meet the team">
-    <h3 class="w3-padding-24 w3-text-light-grey ">MEET THE TEAM:</h3>
-<div style="margin-bottom:100px">
-    <img src="Game/web/pol.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
-    <p><span class="w3-large w3-margin-right">Pol Ferrando.</span>. github: polferrando98</p>
-   </div>
-<div>
-    <img src="Game/web/nina.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
-    <p><span class="w3-large w3-margin-right">Nina Lopez.</span>. github: ninalb13</p>
-   </div>
-  </div>
-  <!-- End About Section -->
-  </div>
-  
-<!-- Grid for pricing tables -->
-<div class="w3-content w3-justify w3-text-grey w3-padding-64"
-    <h3 class="w3-padding-16 w3-text-light-grey"id="Controls">How to Play:</h3>
-    <div class="w3-row-padding" style="margin:0 -16px">
-      <div class="w3-margin-bottom">
-        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
-          <li class="w3-dark-grey w3-xlarge w3-padding-32">CONTROLS (KEYBOARD):</li>
-          <li class="w3-padding-16">Move: A/D</li>
-          <li class="w3-padding-16">Jump: W</li>
-	<li class="w3-padding-16">2Jump:WW</li>
-          <li class="w3-padding-16">F1: Start from the first level</li>
-	  <li class="w3-padding-16">F2: Start from the current level</li>
-	  <li class="w3-padding-16">F5: Save</li>
-	  <li class="w3-padding-16">F6: Load</li>
-	  <li class="w3-padding-16">F8: Debug UI</li>
-	  <li class="w3-padding-16">F9: Debug Colliders</li>
-	<li class="w3-padding-16">F10: God Mode</li>
-	<li class="w3-padding-16">F11: Enable/Disable FPSCAP to 30</li>
-          <li class="w3-padding-16">
-        
-          </li>
-        </ul>
-      </div>
-  </div>
-    <h3 class="w3-padding-16 w3-text-light-grey" id="Controls">Cheats:</h3>
-    <div class="w3-row-padding" style="margin:0 -16px">
-        <div class=" w3-margin-bottom">
-            <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
-                <li class="w3-dark-grey w3-xlarge w3-padding-32">Cheats(KEYBOARD):</li>
-                <li class="w3-padding-16">1: LEVEL 1</li>
-                <li class="w3-padding-16">2: LEVEL 2</li>
-                <li class="w3-padding-16">3: LEVEL 3</li>
-                <li class="w3-padding-16">0: MENU</li>
-            </ul>
-        </div>
-    </div>
-</div>
+
 
     <!-- Footer -->
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
