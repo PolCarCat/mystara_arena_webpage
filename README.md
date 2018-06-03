@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>Mystara Arena</title>
 <meta charset="UTF-8">
@@ -97,19 +97,15 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       </p>
 
 	<p>
-    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+    <button class="w3-button w3-red w3-padding-large w3-section">
         <i class="fa fa-eye"></i>
         <li><a href="https://www.youtube.com/watch?v=xE6F1uA7dxs">Watch a short video of the Game!</a>
 
-
-    </button>
-    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+    <button class="w3-button w3-yellow w3-padding-large w3-section">
       <i class="fa fa-user"></i> 
       <li><a href="https://github.com/polferrando98/Anne-Droid">Link to the repository!</a>
       
-
-    </button>
-    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+    <button class="w3-button w3-aqua w3-padding-large w3-section">
         <i class="fa fa-download"></i>
         <li><a href="https://github.com/polferrando98/Anne-Droid/releases/download/v3.0/AnneDroid.zip">Download our Game!</a>
 
