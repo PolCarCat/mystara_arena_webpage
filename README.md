@@ -1,188 +1,184 @@
-# *Licensing*
+<!DOCTYPE html>
+<html>
+<title>Anne Droid</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+/* Set the width of the sidebar to 120px */
+.w3-sidebar {width: 120px;background: #222;}
+/* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+#main {margin-left: 120px}
+/* Remove margins from "page content" on small screens */
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
+</style>
+<body class="w3-black">
 
-I am [Nina López](https://www.linkedin.com/in/nina-l%C3%B3pez-bobet-0330b2162/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/cat/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://www.linkedin.com/in/ricardpillosu/).
+<!-- Icon Bar (Sidebar - hidden on small screens) -->
+<nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
+  <!-- Avatar image in top left corner -->
+  <img src="Game/web/small_logo.jpg" style="width:100%">
+  <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+    <i class="fa fa-home w3-xxlarge"></i>
+    <p>HOME</p>
+  </a>
+  <a href="#Game Description" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-user w3-xxlarge"></i>
+    <p>GAME DESCRIPTION</p>
+  </a>
+  <a href="#Meet the team" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-eye w3-xxlarge"></i>
+    <p>Meet The Team</p>
+  </a>
+    <a href="#Controls" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+        <i class="fa fa-gamepad w3-xxlarge"></i>
+        <p>Controls</p>
+    </a>
 
-<img src="https://www.copyrighted.com/assets/images/web/home/splash/register-copyright-protect-websites-works.png"/>   
 
-image from copyrighted (website).  
+</nav>
 
-## *What is licensing?*
+<!-- Navbar on small screens (Hidden on medium and large screens) -->
+<div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
+  <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
+    <a href="#" class="w3-bar-item w3-button" style="width:25% !important">HOME</a>
+    <a href="#Game Description" class="w3-bar-item w3-button" style="width:25% !important">Game Description:</a>
+    <a href="#Meet the team" class="w3-bar-item w3-button" style="width:25% !important">Meet The Team</a>
+  </div>
+</div>
 
-A licensing agreement is a written agreement by which the owner of a property gives another party permission to use that property under specified parameters (usually a payment).
+<!-- Page Content -->
+<<<<<<< HEAD
+<div class="w3-padding-large" id="main">
+  <!-- Header/Home -->
+  <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
+    <h1 class="w3-jumbo"><span class="w3-hide-small"> Anne Droid</span></h1>
+    <p>by Nina Lopez and Pol Ferrando.</p>
+    <img src="Game/web/logo.jpg" alt="annedroid" class="w3-image" width="992" height="1108">
+  </header>
 
-## *Copyright vs. Trademark*
+  <!-- About Section -->
+  <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="Game Description">
+    <h2 class="w3-text-light-grey">The Game:</h2>
+    <hr style="width:200px" class="w3-opacity">
+      <p>MIT License</p>
 
+      <p>
+          Copyright (c) [2017] [Pol Ferrando and Nina Lopez]
+      </p>
+      <p>
+          Permission is hereby granted, free of charge, to any person obtaining a copy
+          of this software and associated documentation files (the "Software"), to deal
+          in the Software without restriction, including without limitation the rights
+          to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+          copies of the Software, and to permit persons to whom the Software is
+          furnished to do so, subject to the following conditions:
+      </p>
+      <p>
+          The above copyright notice and this permission notice shall be included in all
+          copies or substantial portions of the Software.
+      </p>
+      <p>
+          THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+          IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+          FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+          AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+          LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+          OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+          SOFTWARE.
+      </p>
+      <p>
+          Anne Droid is a platformer game where the player has to reach two doors to survive.
+          For the second assignment enemies use pathfinding(A*) to get to the player.
+          For the third assignment there is UI implemented with score, timer, lifes and gears.
+      </p>
+
+<p>
+    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+        <i class="fa fa-eye"></i>
+        <li><a href="https://www.youtube.com/watch?v=xE6F1uA7dxs">Watch a short video of the Game!</a>
+
+
+    </button>
+    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+      <i class="fa fa-user"></i> 
+      <li><a href="https://github.com/polferrando98/Anne-Droid">Link to the repository!</a>
+      
+
+    </button>
+    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+        <i class="fa fa-download"></i>
+        <li><a href="https://github.com/polferrando98/Anne-Droid/releases/download/v3.0/AnneDroid.zip">Download our Game!</a>
+
+
+    </button>
+    
+    </p>
+    <!-- Testimonials -->
+  <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="Meet the team">
+    <h3 class="w3-padding-24 w3-text-light-grey ">MEET THE TEAM:</h3>
+<div style="margin-bottom:100px">
+    <img src="Game/web/pol.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Pol Ferrando.</span>. github: polferrando98</p>
+   </div>
+<div>
+    <img src="Game/web/nina.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-margin-right">Nina Lopez.</span>. github: ninalb13</p>
+   </div>
+  </div>
+  <!-- End About Section -->
+  </div>
   
-## *Copyright*
+<!-- Grid for pricing tables -->
+<div class="w3-content w3-justify w3-text-grey w3-padding-64"
+    <h3 class="w3-padding-16 w3-text-light-grey"id="Controls">How to Play:</h3>
+    <div class="w3-row-padding" style="margin:0 -16px">
+      <div class="w3-margin-bottom">
+        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+          <li class="w3-dark-grey w3-xlarge w3-padding-32">CONTROLS (KEYBOARD):</li>
+          <li class="w3-padding-16">Move: A/D</li>
+          <li class="w3-padding-16">Jump: W</li>
+	<li class="w3-padding-16">2Jump:WW</li>
+          <li class="w3-padding-16">F1: Start from the first level</li>
+	  <li class="w3-padding-16">F2: Start from the current level</li>
+	  <li class="w3-padding-16">F5: Save</li>
+	  <li class="w3-padding-16">F6: Load</li>
+	  <li class="w3-padding-16">F8: Debug UI</li>
+	  <li class="w3-padding-16">F9: Debug Colliders</li>
+	<li class="w3-padding-16">F10: God Mode</li>
+	<li class="w3-padding-16">F11: Enable/Disable FPSCAP to 30</li>
+          <li class="w3-padding-16">
+        
+          </li>
+        </ul>
+      </div>
+  </div>
+    <h3 class="w3-padding-16 w3-text-light-grey" id="Controls">Cheats:</h3>
+    <div class="w3-row-padding" style="margin:0 -16px">
+        <div class=" w3-margin-bottom">
+            <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+                <li class="w3-dark-grey w3-xlarge w3-padding-32">Cheats(KEYBOARD):</li>
+                <li class="w3-padding-16">1: LEVEL 1</li>
+                <li class="w3-padding-16">2: LEVEL 2</li>
+                <li class="w3-padding-16">3: LEVEL 3</li>
+                <li class="w3-padding-16">0: MENU</li>
+            </ul>
+        </div>
+    </div>
+</div>
 
-Copyright is a law that gives you ownership over the things you create (in your case a Video Game).
-If you created it, you own it and the copyright law assures it.
+    <!-- Footer -->
+  <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
+    
+  <!-- End footer -->
+  </footer>
 
-<img src= "https://billmuehlenberg.com/wp-content/uploads/2017/06/copyright.jpg"/>  
-image from Bill Muehlenberg   
+<!-- END PAGE CONTENT -->
+</div>
 
-As the owner you have the following rights:
-```
--The right to reproduce the work.  
--The right to prepare derivative works.  
--The right to distribute copies.  
--The right to distribute the work publicly.
-```
-
-The duration of the Copyright is typically the author's life plus 50 to 100 years.   
-Copyright does not cover:
-```
--Titles  
--Names  
--Phrases or slogans    
--Symbols and designs  
--Ideas  
--Procedures and methods  
--Concepts or discoveries  
-```
-## *Trademark*
-
-A trademark is any combination of signs, expressions (anything) that identifies a firm or a service.
-It guarantees the item's uniqueness and it gives the owner legal rights to prevent its unauthorized use.
-It has to be registered with the appropriate authority to obtain legal ownership and protection rights. 
-Trademark rights are granted usually for 7 to 20 years and unlike patents, they can be renewed indefinetly.
-
-<img src="http://www.tandbadvocates.com/wp-content/uploads/2016/11/trademark-image.png"/>     
-
-image from tandbadvocates.   
-
-### *Registered Trademark, Unregistered Trademark or Service mark?*
-
-```
--™ : This is the unregistered trademark symbol, it is used to promote a brand or its goods.
--℠ : This is the unregistered service mark symbol, it is used to promote a brand or its services.
--® : This is the registered trademark symbol.
-```   
-
-## *Patents*  
-They protect inventions from being copied. It can be considered as if they protect ideas.   
-Patents include a detailed description defining the legal boundaries of the invention accurately.
-They provide the strongest protection but they are also the hardest to get (and the most expensive ones).  
-They last for the shortest amount of time 16-18 years.   
-
-
-
-## *Free software license*
-A free software license grants the modification and restribution of a software.
-This actions are prohibited by copyrights laws but the owner of the rights of a software can remove these
-restrictions by acquiring a software license that will grant its modification/distribution.     
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Software-license-classification-mark-webbink.svg/400px-Software-license-classification-mark-webbink.svg.png"/>
-image from Wikipedia   
-
-### *Permissive Software License*   
-A permissive software license is a free software license with minimal requirements about how the software will be distributed.
-```
--MIT License
--BSD License   
--Apple Public Source License   
--Apache License   
-```
-
-### *Copyleft*  
-Copyleft is a type of license that consists on the author giving the person who recieves a copy of the software total permission to reproduce, change or distribute copies of the software. 
-That is pretty much the contrary of copyright which is the reason why this is called copyleft (a play in the word copyright).   
-It is a feature of some free software licenses
-The most important license is the GNU General Public License and they are also called Viral Licenses.   
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Copyleft.svg/220px-Copyleft.svg.png"/>
-image from Wikipedia   
-
-Copyleft works like this:   
-```
-Freedom 0 – The work can be used
-Freedom 1 – The work can be studied
-Freedom 2 – The work can be shared and copied
-Freedom 3 – The work can be modified and distributed modified
-```   
-In order to be 100% Copyleft, the author of the derived work will only distribute it under the same or equivalent license.   
-
-### Permissive source vs. Copyleft  
-The difference between permissive source licenses and copyleft free software licenses is that when the software is redistributed
-(it doesn't matter if it has been modified or not) Copyleft licenses enforce the publication of the source code (under the license Copyleft).   
-Permissive licenses don't try to guarantee that in the future the software will remain free and available.   
-Copyleft licenses offer less license compatibility than permissive licenses. 
-Permissive licenses offer more extensive licence compatibility than copyleft licenses, which cannot always be freely combined and mixed. 
-
-### License compatibility  
-
-License compatibility allows software with different licenses to be distributed together. 
-There are some cases where it is legally impossible to combine two different works (from different licensed software) because their licenses contain contradictory requierements.   
-
-Most Permissive licenses are compatible with copyleft licenses which are incompatible with mostly all the other licenses.  
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Floss-license-slide-image.png"/>
-image from Wikipedia     
-
-
-Some licenses are permissive but do not qualify as free software licenses as defined by the Free Software Foundation.
-
-## *Open-Source*  
-Open-source software is a type of computer software with a license in which the owner (copyright holder)
-gives the rights to:  
-```
--Study
--Change
--Distribute
-```
-  
-## *Open-source vs Free-software*   
-
-The OSI (Open Source Initiative) and the FSF (Free Software Foundation) are two organizations that approve different
-licenses. They are pretty much the same expect for the fact that free software believes in total freedom meaning that it supports the complete elimination of software property and Intellectual property.   
-
-<img src="https://github.com/ninalb13/licensing/blob/master/open.PNG?raw=true"/>   
-
-
-## *Which license should you use for your video game?*
-
-### *PERMISSIVE*
-**The MIT License**  
-It only requires the preservation of the copyright and license a copy of the MIT License terms.
-Licensed works and modifications can be distributed under different licenses without source code.
-It is also compatible with a lot of copyleft licenses like the GNU General Public License (GPL).  
-
-<img src="https://github.com/ninalb13/licensing/blob/master/mit.PNG?raw=true"/>
-image from choosealicense.com
-
-[**MIT LICENSE here**](https://opensource.org/licenses/MIT)
-
-
-**Apache License 2.0**   
-
-It requires the preservation of the copyright and a copy of the Apache License.
-Licensed works and modifications can be distributed under different licenses without source code.
-It works better for organizations that are bigger and managing more contributors but don't care about their work being commercialized by others. It adds a patent license clause to prevent patents from ecumbering the work.   
-
-<img src="https://github.com/ninalb13/licensing/blob/master/apache.PNG?raw=true"/>   
-image from choosealicense.com    
-
-
-[**APACHE 2.0 LICENSE here**](https://opensource.org/licenses/Apache-2.0)   
-
-### *STRONGLY PROTECTIVE*   
-**GNU General Public License v3.0**  
-It is a widely used free software license, it guarantees the users the freedom the run, study and modify the software.
-It is a copyleft license so the derivative works can only be released according to the GPL.   
-Copyright and license notice have to be preserved and the contributors provide an express grant of patent rights.
-
-<img src="https://github.com/ninalb13/licensing/blob/master/gpl.PNG?raw=true"/>   
-image from choosealicense.com   
-
-[**GPL v.3.0 LICENSE here**](https://opensource.org/licenses/GPL-3.0)   
-
-### *Quick summary: MIT, APACHE, GPL*   
--The MIT license is a permissive license meaning that the user can to whatever he wants to do without any legal obligation to the owner. 
-
--The Apache license says more or less the same but it adds a patent license designed to prevent patents from encumbering the software.  
-
--The GPL license containts share-alike license meaning that when a derivative work is made and distributed, the source has to be provided under the same license.   
-
-
-
-
+</body>
+</html>
