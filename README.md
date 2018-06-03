@@ -35,7 +35,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <p>Meet The Team</p>
   </a>
   <a href="#Characters" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
-    <i class="fa fa-male"></i>
+    <i class="fa fa-male w3-xxlarge"></i>
     <p>Characters</p>
   </a>
     <a href="#Controls" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
@@ -98,27 +98,24 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 	  Are you ready to enter the Arena?
       </p>
 
-<p>
-    <button class="w3-button w3-red w3-padding-large w3-section">
+	<p>
+    	<button class="w3-button w3-red w3-padding-large w3-section">
         <i class="fa fa-eye"></i>
         <li><a href="">Watch a short video of the Game!</a>
-
-
-    </button>
+	</button>
+	
     <button class="w3-button w3-aqua w3-padding-large w3-section">
       <i class="fa fa-user"></i> 
       <li><a href="https://github.com/NOREADMEStudios/ProjectII">Link to the repository!</a>
-      
-
-    </button>
+     </button>
+     
     <button class="w3-button w3-yellow w3-padding-large w3-section">
         <i class="fa fa-download"></i>
         <li><a href="https://github.com/NOREADMEStudios/ProjectII">Download our Game!</a>
-
-
     </button>
     
     </p>
+    
     <!-- Testimonials -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="Meet the team">
     <h3 class="w3-padding-24 w3-text-light-grey ">MEET THE TEAM:</h3>
