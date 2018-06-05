@@ -55,8 +55,9 @@ body, html {
 </nav>
 
 <!-- Header with full-height image -->
+<p>
 <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
-<p></p>
+</p>
 <br>
 <br>
   <div class="w3-display-left w3-text-black" style="padding:48px">
