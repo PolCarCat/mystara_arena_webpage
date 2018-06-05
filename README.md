@@ -108,7 +108,7 @@ body, html {
      <p><a href="https://github.com/NOREADMEStudios/ProjectII" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="llama logo.png" alt="logo" width="50%" height="50%">
+      <img class="w3-image w3-round-large" src="llama logo.png" alt="logo" width="25%" height="25%">
         <iframe width="420" height="315"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
@@ -128,7 +128,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
           <h3>Pol Carrera</h3>
           <p class="w3-opacity">Designer</p>
           <p>deishjndffndksjfklasjfkljsdkljfkls.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
         </div>
       </div>
     </div>
@@ -139,7 +139,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
           <h3>Nina Lopez</h3>
           <p class="w3-opacity">Artist</p>
           <p>fhdjksalhfjksdhfjkashjkf.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
         </div>
       </div>
     </div>
@@ -150,7 +150,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
           <h3>Carles Margeli</h3>
           <p class="w3-opacity">Coder</p>
           <p>fkdlsñjfklsdhfjkldhsklfjkasldjfklña.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
         </div>
       </div>
     </div>
@@ -161,7 +161,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
           <h3>Marc Moreno</h3>
           <p class="w3-opacity">Leader</p>
           <p>dfsafsdfsfdsfds.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
         </div>
       </div>
     </div>
@@ -172,7 +172,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
           <h3>Norman Benet</h3>
           <p class="w3-opacity">Manager</p>
           <p>dfsafsdfsfdsfds.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
         </div>
       </div>
     </div>
@@ -183,7 +183,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
           <h3>Albert Mas</h3>
           <p class="w3-opacity">QA</p>
           <p>dfsafsdfsfdsfds.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
         </div>
       </div>
     </div>
@@ -194,7 +194,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
           <h3>Joel Cabaco</h3>
           <p class="w3-opacity">QA</p>
           <p>dfsafsdfsfdsfds.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
         </div>
       </div>
     </div>
@@ -205,7 +205,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
           <h3>Roger Sanchez</h3>
           <p class="w3-opacity">UI</p>
           <p>dfsafsdfsfdsfds.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
         </div>
       </div>
     </div>
