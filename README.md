@@ -16,7 +16,7 @@ body, html {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: <img src="/hola.png">;
+    background-image: <img src="hola.png">;
     min-height: 100%;
 }
 .w3-bar .w3-button {
