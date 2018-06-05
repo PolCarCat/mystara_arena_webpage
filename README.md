@@ -102,12 +102,13 @@ body, html {
     <div class="w3-col m6">
       <h3>Download our game here.</h3>
       <p>Prepare to have an amazing experience playing with your friends.</p>
-     <p>Watch a video of our game!.</p>
-     <p>Check out our repository!.</p>
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-file"> </i> Download our game</a></p>
      <p><a href="https://github.com/NOREADMEStudios/ProjectII" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
     </div>
     <div class="w3-col m6">
+        <iframe width="420" height="315"
+src="https://www.youtube.com/embed/KRnLJtiJEfU">
+</iframe>
         <iframe width="420" height="315"
 src="https://www.youtube.com/embed/KRnLJtiJEfU">
 </iframe>
