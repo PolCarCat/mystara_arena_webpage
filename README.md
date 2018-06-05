@@ -16,7 +16,7 @@ body, html {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url("background.png");
+    background-image:<img src= "background.png" width="100%" height="100%">;
     min-height: 100%;
 }
 .w3-bar .w3-button {
