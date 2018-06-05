@@ -108,7 +108,10 @@ body, html {
      <p><a href="https://github.com/NOREADMEStudios/ProjectII" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
     </div>
     <div class="w3-col m6">
-        <iframe width="420" height="230" src="https://www.youtube.com/embed/KRnLJtiJEfU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+       
     </div>
   </div>
 </div>
@@ -135,8 +138,8 @@ body, html {
         <div class="w3-container">
           <h3>Nina Lopez</h3>
           <p class="w3-opacity">Artist</p>
-          <p>fhdjksalhfjksdhfjkashjkf.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
+          <p></p>
+          <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
@@ -146,8 +149,8 @@ body, html {
         <div class="w3-container">
           <h3>Carles Margeli</h3>
           <p class="w3-opacity">Coder</p>
-          <p>fkdlsñjfklsdhfjkldhsklfjkasldjfklña.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
+          <p></p>
+          <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
@@ -157,8 +160,8 @@ body, html {
         <div class="w3-container">
           <h3>Marc Moreno</h3>
           <p class="w3-opacity">Leader</p>
-          <p>dfsafsdfsfdsfds.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
+          <p></p>
+          <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
@@ -168,8 +171,8 @@ body, html {
         <div class="w3-container">
           <h3>Norman Benet</h3>
           <p class="w3-opacity">Manager</p>
-          <p>dfsafsdfsfdsfds.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
+          <p></p>
+          <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
@@ -179,8 +182,8 @@ body, html {
         <div class="w3-container">
           <h3>Albert Mas</h3>
           <p class="w3-opacity">QA</p>
-          <p>dfsafsdfsfdsfds.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
+          <p></p>
+          <p><a href="https://albertmas.github.io/project2Web/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
@@ -190,8 +193,8 @@ body, html {
         <div class="w3-container">
           <h3>Joel Cabaco</h3>
           <p class="w3-opacity">QA</p>
-          <p>dfsafsdfsfdsfds.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
+          <p></p>
+          <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
@@ -201,8 +204,8 @@ body, html {
         <div class="w3-container">
           <h3>Roger Sanchez</h3>
           <p class="w3-opacity">UI</p>
-          <p>dfsafsdfsfdsfds.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
+          <p></p>
+          <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
