@@ -101,7 +101,11 @@
     <div class="w3-col m6">
       <h3>Download our game here.</h3>
       <p>Prepare to have an amazing experience playing with your friends.</p>
+     <p>Watch a video of our game!.</p>
+     <p>Check out our repository!.</p>
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-file"> </i> Download our game</a></p>
+     <p><a href="#work" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
+     <p><a href="#work" class="w3-button w3-black"><i class="fa fa-person"> </i> Video</a></p>
     </div>
     <div class="w3-col m6">
       <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
