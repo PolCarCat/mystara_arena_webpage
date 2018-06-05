@@ -197,7 +197,7 @@ src="https://www.youtube.com/embed/b-HkTnfMdrw">
           <h3>Joel Cabaco</h3>
           <p class="w3-opacity">QA</p>
           <p></p>
-          <p><a href="" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
+          <p><a href="https://dynamiczero99.github.io/Mystara-Arena-Personal-Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
