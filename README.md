@@ -139,7 +139,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
           <h3>Nina Lopez</h3>
           <p class="w3-opacity">Artist</p>
           <p></p>
-          <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
+          <p><a href="https://ninalb13.github.io/personalpage/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
