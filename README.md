@@ -108,7 +108,6 @@ body, html {
      <p><a href="https://github.com/NOREADMEStudios/ProjectII" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="llama logo.png" alt="logo" width="25%" height="25%">
         <iframe width="420" height="315"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
