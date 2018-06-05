@@ -60,8 +60,11 @@ body, html {
     <span class="w3-large">Are you ready to enter the arena?</span>
     <p><a href="#about" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">by No Readme Studio</a></p>
     
+   <div>
+   <p>
    <img class="w3-image w3-round-large" src="MainMenu.png" alt="logo" width="100%" height="100%">
-    
+   </p>
+   </div>
   </div> 
   <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
     <i class="fa fa-facebook-official w3-hover-opacity"></i>
