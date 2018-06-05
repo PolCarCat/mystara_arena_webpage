@@ -153,7 +153,7 @@ src="https://www.youtube.com/embed/b-HkTnfMdrw">
           <h3>Carles Margeli</h3>
           <p class="w3-opacity">Coder</p>
           <p></p>
-          <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
+          <p><a href="https://margeli.github.io/PersonalWebPage/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
