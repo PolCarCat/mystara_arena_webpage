@@ -108,7 +108,7 @@ body, html {
      <p><a href="https://github.com/NOREADMEStudios/ProjectII" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
     </div>
     <div class="w3-col m6">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/KRnLJtiJEfU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="420" height="230" src="https://www.youtube.com/embed/KRnLJtiJEfU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
   </div>
 </div>
