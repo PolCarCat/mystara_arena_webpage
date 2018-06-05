@@ -28,7 +28,7 @@ body, html {
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-male"></i> HEROES</a>
       <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-archive"></i> ITEMS</a>
-      <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> OUR GAME</a>
+      <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-angellist"></i> OUR GAME</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
