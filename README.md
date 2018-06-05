@@ -161,7 +161,7 @@ src="https://www.youtube.com/embed/KRnLJtiJEfU">
           <h3>Marc Moreno</h3>
           <p class="w3-opacity">Leader</p>
           <p></p>
-          <p><a href="https://marc094.github.io/Personal-Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
+          <p><a href="" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
@@ -172,7 +172,7 @@ src="https://www.youtube.com/embed/KRnLJtiJEfU">
           <h3>Norman Benet</h3>
           <p class="w3-opacity">Manager</p>
           <p></p>
-          <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
+          <p><a href="https://normanbg.github.io/personal_page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
@@ -194,7 +194,7 @@ src="https://www.youtube.com/embed/KRnLJtiJEfU">
           <h3>Joel Cabaco</h3>
           <p class="w3-opacity">QA</p>
           <p></p>
-          <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
+          <p><a href="" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
@@ -205,10 +205,11 @@ src="https://www.youtube.com/embed/KRnLJtiJEfU">
           <h3>Roger Sanchez</h3>
           <p class="w3-opacity">UI</p>
           <p></p>
-          <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
+          <p><a href="https://rogerjimbo.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
+    <img src="team.jpg" alt="team" style="width:100%">
   </div>
 </div>
 
