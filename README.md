@@ -28,7 +28,7 @@ body, html {
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-male"></i> HEROES</a>
       <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-archive"></i> ITEMS</a>
-      <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> CONTACT</a>
+      <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> OUR GAME</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
@@ -45,7 +45,7 @@ body, html {
   <a href="#team" onclick="w3_close()" class="w3-bar-item w3-button">TEAM</a>
   <a href="#work" onclick="w3_close()" class="w3-bar-item w3-button">HEROES</a>
   <a href="#pricing" onclick="w3_close()" class="w3-bar-item w3-button">ITEMS</a>
-  <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button">CONTACT</a>
+  <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button">OUR GAME</a>
 </nav>
 
 <!-- Header with full-height image -->
