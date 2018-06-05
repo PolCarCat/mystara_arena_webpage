@@ -288,22 +288,22 @@
 
   <div class="w3-row-padding" style="margin-top:64px">
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_mic.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Staff of Thoth">
+      <img src="item_1.gif" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Staff of Thoth">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_phone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="DragonSlayer">
+      <img src="item_2.gif" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="DragonSlayer">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_drone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Plate Mail">
+      <img src="item_3.gif" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Plate Mail">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_sound.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Ring of Protection">
+      <img src="item_4.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Ring of Protection">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_sound.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Swiftboots">
+      <img src="item_5.gif" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Swiftboots">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_sound.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Tiara">
+      <img src="item_6.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Tiara">
     </div>
   </div>
     
