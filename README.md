@@ -108,7 +108,7 @@
      <p><a href="#work" class="w3-button w3-black"><i class="fa fa-person"> </i> Video</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src="llama logo.png" alt="logo" width="50%" height="50%">
     </div>
   </div>
 </div>
