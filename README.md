@@ -105,14 +105,11 @@ body, html {
      <p>Watch a video of our game!.</p>
      <p>Check out our repository!.</p>
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-file"> </i> Download our game</a></p>
-     <p><a href="#work" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
+     <p><a href="https://github.com/NOREADMEStudios/ProjectII" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
      <p><a href="#work" class="w3-button w3-black"><i class="fa fa-cloud"> </i> Video</a></p>
     </div>
     <div class="w3-col m6">
       <img class="w3-image w3-round-large" src="llama logo.png" alt="logo" width="50%" height="50%">
-        <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
     </div>
   </div>
 </div>
