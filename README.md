@@ -9,8 +9,8 @@
  <style>
     body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
             html, body {
-                width: 100%;
-                height: 100%;
+                width: 50%;
+                height: 50%;
                 margin: 0;
                 padding: 0;
                 background-color: white;
@@ -105,7 +105,7 @@
      <p>Check out our repository!.</p>
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-file"> </i> Download our game</a></p>
      <p><a href="#work" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
-     <p><a href="#work" class="w3-button w3-black"><i class="fa fa-refresh"> </i> Video</a></p>
+     <p><a href="#work" class="w3-button w3-black"><i class="fa fa-cloud"> </i> Video</a></p>
     </div>
     <div class="w3-col m6">
       <img class="w3-image w3-round-large" src="llama logo.png" alt="logo" width="50%" height="50%">
