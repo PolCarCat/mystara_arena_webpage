@@ -388,7 +388,10 @@ function w3_open() {
         mySidebar.style.display = 'block';
     }
 }
-
+function resizeWinTo() {
+    myWindow.resizeTo(945, 776);
+    myWindow.focus();
+}
 // Close the sidebar with the close button
 function w3_close() {
     mySidebar.style.display = "none";
