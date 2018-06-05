@@ -232,7 +232,7 @@
 
   <div class="w3-row-padding" style="margin-top:64px">
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_mic.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="WARRIOR">
+      <img src="warrior.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="WARRIOR">
     </div>
     <div class="w3-col l3 m6">
       <img src="/w3images/tech_phone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="ROGUE">
