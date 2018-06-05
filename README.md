@@ -104,8 +104,8 @@ body, html {
       <p>Prepare to have an amazing experience playing with your friends.</p>
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-file"> </i> Download our game</a></p>
      <p><a href="https://github.com/NOREADMEStudios/ProjectII" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
-        <p><a href="https://www.instagram.com/noreadmestudio/" class="w3-button w3-black"><i class="fa fa-file"> </i> Instagram</a></p>
-        <p><a href="https://twitter.com/NoReadmeStudio?lang=es" class="w3-button w3-black"><i class="fa fa-file"> </i> Twitter</a></p>
+        <p><a href="https://www.instagram.com/noreadmestudio/" class="w3-button w3-black"><i class="fa fa-home"> </i> Instagram</a></p>
+        <p><a href="https://twitter.com/NoReadmeStudio?lang=es" class="w3-button w3-black"><i class="fa fa-home"> </i> Twitter</a></p>
     </div>
     <div class="w3-col m6">
         <iframe width="420" height="315"
