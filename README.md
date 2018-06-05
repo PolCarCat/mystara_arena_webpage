@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -399,5 +399,4 @@ To use this code on your website, get a free API key from Google.
 Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
 -->
 
-</body>
-</html>
+
