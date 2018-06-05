@@ -16,7 +16,7 @@ body, html {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url("");
+    background-image: url("background.png");
     min-height: 100%;
 }
 .w3-bar .w3-button {
@@ -24,7 +24,7 @@ body, html {
 }
 </style>
 <body>
-resizeWinTo();
+
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-card" id="myNavbar">
