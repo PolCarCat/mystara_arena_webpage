@@ -164,7 +164,7 @@ src="https://www.youtube.com/embed/b-HkTnfMdrw">
           <h3>Marc Moreno</h3>
           <p class="w3-opacity">Leader</p>
           <p></p>
-          <p><a href="" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
+          <p><a href="https://marc094.github.io/Personal-Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
