@@ -14,7 +14,7 @@ body, html {
 }
 /* Full height image header */
 .bgimg-1 {
-    background-position: center;
+    background-position: relative;
     background-size: cover;
     background-image: <img src="hola.png">;
     min-height: 100%;
