@@ -235,13 +235,13 @@
       <img src="warrior.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="WARRIOR">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_phone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="ROGUE">
+      <img src="rogue.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="ROGUE">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_drone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="WIZARD">
+      <img src="wizard.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="WIZARD">
     </div>
     <div class="w3-col l3 m6">
-      <img src="/w3images/tech_sound.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="CLERIC">
+      <img src="cleric.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="CLERIC">
     </div>
   </div>
 
