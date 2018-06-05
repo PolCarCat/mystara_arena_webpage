@@ -105,7 +105,7 @@
      <p>Check out our repository!.</p>
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-file"> </i> Download our game</a></p>
      <p><a href="#work" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
-     <p><a href="#work" class="w3-button w3-black"><i class="fa fa-person"> </i> Video</a></p>
+     <p><a href="#work" class="w3-button w3-black"><i class="fa fa-refresh"> </i> Video</a></p>
     </div>
     <div class="w3-col m6">
       <img class="w3-image w3-round-large" src="llama logo.png" alt="logo" width="50%" height="50%">
