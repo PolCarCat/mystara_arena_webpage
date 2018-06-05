@@ -127,7 +127,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+        <img src="nina.jpg" alt="nina" style="width:100%">
         <div class="w3-container">
           <h3>Nina Lopez</h3>
           <p class="w3-opacity">Artist</p>
@@ -138,7 +138,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="/w3images/team3.jpg" alt="Mike" style="width:100%">
+        <img src="carles.jpg" alt="carles" style="width:100%">
         <div class="w3-container">
           <h3>Carles Margeli</h3>
           <p class="w3-opacity">Coder</p>
@@ -149,7 +149,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
+        <img src="marc.jpg" alt="marc" style="width:100%">
         <div class="w3-container">
           <h3>Marc Moreno</h3>
           <p class="w3-opacity">Leader</p>
@@ -160,7 +160,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
+        <img src="norman.jpg" alt="norman" style="width:100%">
         <div class="w3-container">
           <h3>Norman Benet</h3>
           <p class="w3-opacity">Manager</p>
@@ -171,7 +171,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
+        <img src="albert.jpg" alt="albert" style="width:100%">
         <div class="w3-container">
           <h3>Albert Mas</h3>
           <p class="w3-opacity">QA</p>
@@ -182,7 +182,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
+        <img src="joel.jpg" alt="joel" style="width:100%">
         <div class="w3-container">
           <h3>Joel Cabaco</h3>
           <p class="w3-opacity">QA</p>
@@ -193,7 +193,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
+        <img src="roger.jpg" alt="roger" style="width:100%">
         <div class="w3-container">
           <h3>Roger Sanchez</h3>
           <p class="w3-opacity">UI</p>
