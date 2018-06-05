@@ -56,7 +56,7 @@ body, html {
 
 <!-- Header with full-height image -->
 <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
-  <div class="w3-display-left w3-text-black" style="padding:48px">
+  <div class="w3-display-left w3-text-black" style="padding:70px">
     <span class="w3-jumbo w3-hide-small">Mystara Arena</span><br>
     <span class="w3-xxlarge w3-hide-large w3-hide-medium">Start something that matters</span><br>
     <span class="w3-large">Are you ready to enter the arena?</span>
