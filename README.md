@@ -109,7 +109,7 @@ body, html {
     </div>
     <div class="w3-col m6">
         <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=KRnLJtiJEfU&feature=youtu.be">
+src="https://youtu.be/KRnLJtiJEfU">
 </iframe>
     </div>
   </div>
