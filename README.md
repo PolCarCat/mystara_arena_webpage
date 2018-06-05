@@ -16,7 +16,6 @@ body, html {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image:<img src= "background.png" width="100%" height="100%">;
     min-height: 100%;
 }
 .w3-bar .w3-button {
@@ -30,7 +29,7 @@ body, html {
   <div class="w3-bar w3-white w3-card" id="myNavbar">
     <a href="#home" class="w3-bar-item w3-button w3-wide">HOME</a>
     <!-- Right-sided navbar links -->
-    <div class="w3-right w3-hide-small">
+    <div class="w3-top w3-hide-small">
       <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-male"></i> HEROES</a>
