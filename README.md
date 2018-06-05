@@ -102,7 +102,7 @@ body, html {
     <div class="w3-col m6">
       <h3>Download our game here.</h3>
       <p>Prepare to have an amazing experience playing with your friends.</p>
-      <p><a href="#work" class="w3-button w3-black"><i class="fa fa-file"> </i> Download our game</a></p>
+      <p><a href="https://github.com/NOREADMEStudios/ProjectII/releases/tag/1.0" class="w3-button w3-black"><i class="fa fa-file"> </i> Download our game</a></p>
      <p><a href="https://github.com/NOREADMEStudios/ProjectII" class="w3-button w3-black"><i class="fa fa-search"> </i> Repository</a></p>
         <p><a href="https://www.instagram.com/noreadmestudio/" class="w3-button w3-black"><i class="fa fa-home"> </i> Instagram</a></p>
         <p><a href="https://twitter.com/NoReadmeStudio?lang=es" class="w3-button w3-black"><i class="fa fa-home"> </i> Twitter</a></p>
