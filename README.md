@@ -25,7 +25,7 @@ body, html {
 <body>
 
 <!-- Navbar (sit on top) -->
-<div class="w3-left">
+<div class="w3-topleft">
   <div class="w3-bar w3-white w3-card" id="myNavbar">
     <a href="#home" class="w3-bar-item w3-button w3-wide">HOME</a>
     <!-- Right-sided navbar links -->
