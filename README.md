@@ -124,8 +124,8 @@ body, html {
         <div class="w3-container">
           <h3>Pol Carrera</h3>
           <p class="w3-opacity">Designer</p>
-          <p>deishjndffndksjfklasjfkljsdkljfkls.</p>
-          <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-user"></i> Personal Webpage</button></p>
+          <p></p>
+         <p><a href="https://polcarcat.github.io/Personal_Page/" class="w3-button w3-black"><i class="fa fa-user"> </i> Personal Page</a></p>
         </div>
       </div>
     </div>
