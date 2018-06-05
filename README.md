@@ -392,7 +392,7 @@ function w3_open() {
     }
 }
 function resizeWinTo() {
-    myWindow.resizeTo(945, 776);
+    myWindow.resizeTo(1807, 776);
     myWindow.focus();
 }
 // Close the sidebar with the close button
